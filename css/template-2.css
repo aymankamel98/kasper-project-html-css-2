@@ -229,7 +229,7 @@ header nav .form i {
   background-color: #817676;
   width: 100%;
   min-height: 100vh;
-  background-image: url(../images\landing.jpg);
+  background-image: url(../images/landing.jpg);
   background-size: cover;
   position: relative;
 }
@@ -359,9 +359,7 @@ header nav .form i {
   margin-right: 50px;
   font-size: 48px;
 }
-/* .content .feature .text {
-  width: 75%;
-} */
+
 .content .feature .text h3 {
   font-size: 19px;
   font-weight: 700;
