@@ -1007,6 +1007,7 @@ header nav .form i {
   position: relative;
   top: 30px;
   left: 25px;
+  color: #777777;
 }
 .email .container form input.mail {
   background: none;
@@ -1021,6 +1022,9 @@ header nav .form i {
   .email .container form input.mail {
     padding: 20px 35px;
   }
+}
+:focus-visible {
+  outline: none;
 }
 .email .container form input.submit {
   background-color: var(--main-color);
