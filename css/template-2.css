@@ -229,7 +229,7 @@ header nav .form i {
   background-color: #817676;
   width: 100%;
   min-height: 100vh;
-  background-image: url(/images/landing.jpg);
+  background-image: url(../images\landing.jpg);
   background-size: cover;
   position: relative;
 }
@@ -380,7 +380,7 @@ header nav .form i {
 /* end of services */
 /* start of desgin */
 .desgin {
-  background-image: url(/images/design-features.jpg);
+  background-image: url(../images/design-features.jpg);
   position: relative;
   height: 600px;
   display: flex;
@@ -611,7 +611,7 @@ header nav .form i {
 /* end of about us */
 /* start of  states */
 .states {
-  background-image: url(/images/stats.png);
+  background-image: url(../images/stats.png);
   background-size: cover;
   position: relative;
   padding: var(--padding-secion) 0px;
@@ -821,7 +821,7 @@ header nav .form i {
 /* start of awosem pargraph */
 .specialQuote {
   background-color: #817676;
-  background-image: url(/images/quote.jpg);
+  background-image: url(../images/quote.jpg);
   background-size: cover;
   position: relative;
 }
@@ -955,7 +955,7 @@ header nav .form i {
 /* start of email  */
 .email {
   background-color: #777777;
-  background-image: url(/images/subscribe.jpg);
+  background-image: url(../images/subscribe.jpg);
   background-size: cover;
   position: relative;
   color: white;
@@ -1105,7 +1105,7 @@ header nav .form i {
 /* end of contact  */
 /* start of footer  */
 .footer {
-  background-image: url(/images/subscribe.jpg);
+  background-image: url(../images/subscribe.jpg);
   padding-top: calc(var(--padding-secion) / 2);
   padding-bottom: calc(var(--padding-secion) / 2);
   position: relative;
