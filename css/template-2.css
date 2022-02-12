@@ -850,7 +850,7 @@ header nav .form i {
   color: white;
 }
 /* end of awosem pargraph */
-/* end of planes  */
+/* end of pricing  */
 .pricing .container .planes {
   color: #000000;
   text-align: center;
@@ -919,6 +919,7 @@ header nav .form i {
   width: 100px;
   padding: 25px 10px;
   border: 1px solid var(--main-color);
+  color: #000000;
 }
 .pricing .planes .buy a:hover {
   color: var(--main-color);
@@ -949,7 +950,7 @@ header nav .form i {
   margin-top: 20px;
   text-decoration: none;
 }
-/* end of planes  */
+/* end of pricing  */
 /* start of email  */
 .email {
   background-color: #777777;
