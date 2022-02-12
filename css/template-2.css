@@ -33,6 +33,15 @@ button:hover {
   -ms-transition: 00.3s;
   -o-transition: 00.3s;
 }
+button,
+input,
+a {
+  border-radius: 10%;
+  -webkit-border-radius: 10%;
+  -moz-border-radius: 10%;
+  -ms-border-radius: 10%;
+  -o-border-radius: 10%;
+}
 .mySection {
   padding: var(--padding-secion) 0px;
 }
@@ -985,6 +994,7 @@ header nav .form i {
   border: 1px solid white;
   display: flex;
   width: 500px;
+  border: none;
 }
 @media (max-width: 991px) {
   .email .container form {
@@ -1009,7 +1019,7 @@ header nav .form i {
 }
 @media (max-width: 991px) {
   .email .container form input.mail {
-    padding: 20px 25px;
+    padding: 20px 35px;
   }
 }
 .email .container form input.submit {
